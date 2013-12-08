@@ -1,3 +1,4 @@
+//hello.c for test
 #include<stdio.h>
 int main (void)
 {
